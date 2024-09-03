@@ -1,0 +1,19 @@
+﻿body {
+    background-color: blue;
+    font-size: 26px;
+    font-family: Arial, sans-serif
+}
+
+h1{
+    background-color: darkslategrey;
+}
+
+p{
+    margin: 25px;
+
+}
+
+ol{
+    background-color: red;
+}
+
